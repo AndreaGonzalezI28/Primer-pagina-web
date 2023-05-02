@@ -5,4 +5,4 @@ Primer página web elaborada con HTML y CSS
 
 ![P2](Imagenes/I2.png)
 
-![P3](Imagenes/I3.png)
+![i3](Imagenes/I3.png)
